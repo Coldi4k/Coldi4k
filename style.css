@@ -1,0 +1,55 @@
+.c-button:hover {
+    background: #4e4e50;
+}
+.c-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.c-button {
+    min-width: 100%;
+    font-family: fantasy;
+    appearance: none;
+    border: 0;
+    border-color: #fff;
+    border-radius: 5px;
+    background: #1a1a1d;
+    color: #fff;
+    padding: 0px 46px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
